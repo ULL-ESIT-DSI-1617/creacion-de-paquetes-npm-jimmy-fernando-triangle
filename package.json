@@ -1,0 +1,26 @@
+{
+  "name": "@ull-team-fernando-jimmy/ull-shape-triangle",
+  "version": "0.0.1",
+  "description": "",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-jimmy-fernando-triangle.git"
+  },
+  "author": {
+    "name": "Alex Jimmy Montaño",
+    "email": "alexjimmymn@gmail.com",
+    "url": "http://didream.es/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-jimmy-fernando-triangle/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-jimmy-fernando-triangle#readme",
+  "dependencies": {
+    "@ull-team-fernando-jimmy/ull-shape": "latest"
+  }
+}
