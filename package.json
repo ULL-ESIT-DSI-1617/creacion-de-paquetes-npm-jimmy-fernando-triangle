@@ -4,7 +4,7 @@
   "description": "",
   "main": "triangle.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --require should"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-jimmy-fernando-triangle#readme",
   "dependencies": {
-    "@ull-team-fernando-jimmy/ull-shape": "latest"
+    "@ull-team-fernando-jimmy/ull-shape": "latest",
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
   }
 }
