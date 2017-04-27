@@ -1,6 +1,6 @@
 {
   "name": "@ull-team-fernando-jimmy/ull-shape-triangle",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "triangle.js",
   "scripts": {
